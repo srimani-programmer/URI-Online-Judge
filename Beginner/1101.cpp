@@ -6,7 +6,7 @@ int main(){
     while(1){
         int val1,val2;
         cin>>val1>>val2;
-    int sum = 0;
+   unsigned int sum = 0;
         if(val1 <= 0 || val2 <= 0)
             break;
         else if(val1 > val2){
